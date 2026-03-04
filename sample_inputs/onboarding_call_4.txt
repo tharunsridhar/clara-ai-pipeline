@@ -1,0 +1,2 @@
+Client: Hours are now extended to 9 AM to 6 PM.
+Client: Fire alarm events must be treated as emergencies.

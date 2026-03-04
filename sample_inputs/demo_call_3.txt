@@ -1,0 +1,3 @@
+Client: Office hours are 8 AM to 4 PM Monday to Friday.
+Client: If a sprinkler system leaks it is an emergency.
+Client: After hours calls should be transferred to dispatch.

@@ -1,0 +1,3 @@
+Client: Office operates 8 AM to 6 PM Monday through Friday.
+Client: Sprinkler leaks must be handled as emergencies.
+Client: Dispatch should receive after hours emergency calls.

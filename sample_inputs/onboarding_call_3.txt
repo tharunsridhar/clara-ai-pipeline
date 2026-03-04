@@ -1,0 +1,2 @@
+Client: Our new hours are 7 AM to 5 PM.
+Client: Fire alarms should also be classified as emergencies.

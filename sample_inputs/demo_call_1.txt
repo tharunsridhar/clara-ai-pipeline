@@ -1,0 +1,4 @@
+Client: Our office hours are Monday to Friday from 8 AM to 5 PM.
+Client: Sprinkler leaks should be treated as emergencies.
+Client: After hours emergency calls should go directly to dispatch.
+Client: Non emergency calls can leave a voicemail.

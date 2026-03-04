@@ -1,0 +1,2 @@
+Client: Our office hours are now 7 AM to 6 PM.
+Client: Fire alarm triggers should also be treated as emergencies.

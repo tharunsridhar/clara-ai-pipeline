@@ -1,0 +1,2 @@
+Client: Business hours are changing to 7 AM to 6 PM.
+Client: Fire alarm triggers are also emergencies.
