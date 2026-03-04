@@ -1,6 +1,5 @@
 # Clara AI - Voice Agent Configuration Pipeline
 
-![Banner](assets/banner.png)
 
 ---
 
@@ -24,6 +23,8 @@ Onboarding Call Transcript ->   Updated Agent (v2) + Changelog
 ---
 
 ## Architecture
+
+![System Architecture](assets/System_Architecture_Diagram.png)
 
 ```
 clara_pipeline/
@@ -59,6 +60,8 @@ clara_pipeline/
 ---
 
 ## Data Flow
+
+![Pipeline Flow](assets/Pipeline_Flow_Diagram.png)
 
 ```
   [demo_call_N.txt]
@@ -125,8 +128,8 @@ If this were built in n8n, the nodes would be:
 ### Step 1 - Clone or download the project
 
 ```bash
-git clone https://github.com/yourusername/clara_pipeline.git
-cd clara_pipeline
+git clone https://github.com/yourusername/clara-ai-pipeline.git
+cd clara-ai-pipeline
 ```
 
 ### Step 2 - Install dependencies
