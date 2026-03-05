@@ -1,2 +1,35 @@
-Client: Our office hours are now 7 AM to 6 PM.
-Client: Fire alarm triggers should also be treated as emergencies.
+Agent: Hi James, welcome to your Clara onboarding session for Apex Fire Protection. We're going to finalize your agent configuration today.
+
+Client: Great, let's do it.
+
+Agent: First, can you confirm your business hours?
+
+Client: We've actually extended our hours. We're now open 7 AM to 6 PM Monday through Friday, and we added Saturday 8 AM to 12 PM.
+
+Agent: Got it, updated. Timezone is still Central?
+
+Client: Yes, Central time. America/Chicago.
+
+Agent: Can you confirm the dispatch number for emergency routing?
+
+Client: Primary is still 214-555-0199. We've also added a backup — 214-555-0288. That's Mike, our operations manager. Try him if dispatch doesn't pick up.
+
+Agent: What's the transfer timeout before trying backup?
+
+Client: Give it 45 seconds on the primary. If no answer, go to Mike. If Mike doesn't answer either, tell the caller someone will be back within 30 minutes.
+
+Agent: Any updates to your emergency definitions?
+
+Client: Yes — fire alarm triggers should now also be treated as emergencies, not just sprinkler leaks. And smoke detector alerts too.
+
+Agent: Any changes to your ServiceTrade rules?
+
+Client: Same rule — never auto-create sprinkler jobs. But you can now create fire alarm inspection jobs automatically, that's fine.
+
+Agent: Any other constraints or edge cases we should know about?
+
+Client: If a caller mentions they're at a hospital or school, escalate immediately regardless of the type of call. Those are priority sites.
+
+Agent: Perfect, we have everything we need. Your v2 agent will be ready shortly.
+
+Client: Excellent, thank you.

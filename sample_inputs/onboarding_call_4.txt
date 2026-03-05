@@ -1,2 +1,35 @@
-Client: Hours are now extended to 9 AM to 6 PM.
-Client: Fire alarm events must be treated as emergencies.
+Agent: Hi David, this is your onboarding session for PrimeSafe Fire Protection. Let's lock in your final configuration.
+
+Client: Ready to go.
+
+Agent: Confirming business hours?
+
+Client: Hours are extending — now 8 AM to 6 PM Monday through Friday. Eastern time. America/New_York.
+
+Agent: Any weekend hours?
+
+Client: Saturday 9 AM to 1 PM. No Sundays.
+
+Agent: Emergency routing — still 404-555-0215 as primary?
+
+Client: Yes, primary stays the same. Backup is still 404-555-0298. But we're changing the timeout — give primary 30 seconds now, not 45. We want faster escalation.
+
+Agent: If both lines fail?
+
+Client: Tell the caller our dispatch has been alerted and they'll receive a call back within 15 minutes. Make sure to collect their name, callback number, and the property address before ending the call.
+
+Agent: Emergency definition changes?
+
+Client: Adding carbon monoxide alarm activation to the emergency list. So now it's: active sprinkler discharge, fire alarm, visible smoke or fire, and carbon monoxide alarm.
+
+Agent: ServiceTrade updates?
+
+Client: We're changing the rule — now we want emergency jobs created automatically in ServiceTrade for all four emergency types. Routine calls still manual only.
+
+Agent: Any new constraints or priority rules?
+
+Client: Yes — any caller from a nursing home or assisted living facility must be escalated immediately regardless of the call type. And our ServiceTrade account ID is PT-44821, make sure jobs are tagged with that.
+
+Agent: Perfect, all confirmed. v2 will be ready shortly.
+
+Client: Thanks a lot.

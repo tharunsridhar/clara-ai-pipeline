@@ -1,2 +1,35 @@
-Client: Business hours are now 8 AM to 7 PM.
-Client: Fire alarm triggers are emergencies too.
+Agent: Hi Sarah, this is your Clara onboarding call for BlazeSafe Sprinkler Systems. Ready to finalize your configuration?
+
+Client: Yes, let's go through it.
+
+Agent: Can you confirm or update your business hours?
+
+Client: We're now open 8 AM to 7 PM Monday through Saturday. We added Sunday too — 10 AM to 2 PM for emergencies only.
+
+Agent: Timezone?
+
+Client: Central time. America/Chicago.
+
+Agent: And the on-call number for after-hours emergencies?
+
+Client: 832-555-0147 is still the primary. We now have a secondary — 832-555-0263. That's our lead technician, Carlos.
+
+Agent: Transfer timeout?
+
+Client: Try the primary for 30 seconds. If no answer, go to Carlos. If neither answers within another 30 seconds, tell the caller we'll dispatch someone within 45 minutes and collect their address.
+
+Agent: Any updates to emergency definitions?
+
+Client: Yes — fire alarm triggers are now emergencies too. And we're adding: any caller who says there is water on the floor near electrical equipment, treat that as an emergency.
+
+Agent: ServiceTrade rules — any changes?
+
+Client: Still no suppression system repair jobs automatically. But you can now create routine inspection jobs automatically, that's fine.
+
+Agent: Any new constraints?
+
+Client: If the caller is from a restaurant or food facility, those are priority clients. Flag them and escalate.
+
+Agent: Got it. Everything is confirmed. Your v2 configuration will be generated now.
+
+Client: Perfect, thanks Sarah's team.

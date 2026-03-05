@@ -1,3 +1,31 @@
-Client: Office operates 8 AM to 6 PM Monday through Friday.
-Client: Sprinkler leaks must be handled as emergencies.
-Client: Dispatch should receive after hours emergency calls.
+Agent: Thank you for calling Clara Answers. How can I assist you today?
+
+Client: Hi, I'm Michelle Torres, I'm the office manager at SwiftShield Fire Systems in Chicago, Illinois. We've been losing business because our after-hours call handling is basically nonexistent.
+
+Agent: I understand Michelle. Can you tell me more about your business?
+
+Client: We do sprinkler installation, fire alarm systems, and emergency inspections. Mostly commercial clients — office buildings, warehouses, restaurants.
+
+Agent: What are your office hours?
+
+Client: Monday through Friday, 8 AM to 6 PM. Central time.
+
+Agent: How should we handle calls that come in outside those hours?
+
+Client: If it's an emergency, the call needs to get to our on-call line immediately — that's 312-555-0184. If they don't pick up, the caller should be told we'll have someone back to them within 20 minutes.
+
+Agent: What's your definition of an emergency?
+
+Client: Sprinkler leak, fire alarm going off, or if a caller says there is smoke in the building. All of those need immediate routing.
+
+Agent: Do you use any field management software?
+
+Client: We use ServiceTrade. Do not create any jobs automatically — we review all ServiceTrade entries manually. The agent should just collect the info and we'll handle the rest.
+
+Agent: Any other specific requirements at this stage?
+
+Client: Not right now. I know we'll cover timezone and transfer details more on the onboarding call.
+
+Agent: Perfect, we'll draft your v1 configuration and connect again at onboarding.
+
+Client: Thank you, looking forward to it.

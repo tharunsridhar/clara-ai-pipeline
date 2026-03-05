@@ -1,3 +1,27 @@
-Client: Business hours are 9 AM to 5 PM weekdays.
-Client: Sprinkler leaks are emergency cases.
-Client: After hours emergency routing should go to dispatch.
+Agent: Thank you for calling Clara Answers. How can I help you?
+
+Client: Hello, I'm David Okafor, general manager at PrimeSafe Fire Protection in Atlanta, Georgia. We're a mid-sized contractor doing fire suppression, sprinkler systems, and HVAC-related fire safety compliance.
+
+Agent: Thanks David. What's prompting you to look at call automation right now?
+
+Client: We're getting overwhelmed during off hours. Our technicians are getting called for things that aren't actually emergencies, and real emergencies sometimes slip through without fast enough response.
+
+Agent: That makes sense. What are your business hours currently?
+
+Client: 9 AM to 5 PM, Monday through Friday. Eastern time.
+
+Agent: And after hours, how would you ideally want the calls routed?
+
+Client: Emergencies go to the on-call dispatcher at 404-555-0215. If they don't answer in 45 seconds, try the backup at 404-555-0298. Non-emergency after-hours calls should just collect the caller's name, number, and issue, and we'll get back to them.
+
+Agent: What constitutes an emergency?
+
+Client: Active sprinkler discharge, fire alarm activation, and any situation where the caller says there's smoke or visible fire. Those three are always emergencies.
+
+Agent: Any software we need to integrate with?
+
+Client: We use ServiceTrade. Emergency jobs should be logged there automatically. Routine calls — no, don't touch ServiceTrade, we'll handle that manually.
+
+Agent: Understood. We'll put together your preliminary agent and we can lock in the details at onboarding.
+
+Client: Sounds good. Looking forward to it.

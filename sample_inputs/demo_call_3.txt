@@ -1,3 +1,31 @@
-Client: Office hours are 8 AM to 4 PM Monday to Friday.
-Client: If a sprinkler system leaks it is an emergency.
-Client: After hours calls should be transferred to dispatch.
+Agent: Thank you for calling Clara Answers. How can I assist you today?
+
+Client: Hi, my name is Robert Chen. I manage operations at GuardPoint Fire & Electrical in Phoenix, Arizona. We're looking for a better way to handle our inbound calls, especially after hours.
+
+Agent: Happy to help Robert. What kind of services does GuardPoint provide?
+
+Client: We do fire alarm installation and monitoring, electrical inspections, and emergency repair for both fire and electrical systems. We cover commercial properties mainly.
+
+Agent: What are your current office hours?
+
+Client: We're open 8 AM to 4 PM, Monday through Friday. Mountain time.
+
+Agent: And how should calls be handled outside those hours?
+
+Client: After hours, emergencies need to go straight to our on-call team. The number is 602-555-0321. For non-emergencies, they should be told we'll follow up the next business day.
+
+Agent: What defines an emergency for your team?
+
+Client: Fire alarm going off at a client site, any electrical fault causing safety risk, and sprinkler system leaks. Those are all immediate emergencies.
+
+Agent: Do you use any dispatch or job management software?
+
+Client: We use ServiceTitan. For emergency calls, we do want a job created automatically. For routine inspection requests after hours, don't create anything — just log the message.
+
+Agent: Understood. Anything else we should capture for your configuration?
+
+Client: We also need a fallback — if the on-call line doesn't pick up within 60 seconds, the caller should be told someone will reach them within 15 minutes.
+
+Agent: Got it. We'll get your v1 agent drafted and follow up on the onboarding call.
+
+Client: Great, thanks a lot.

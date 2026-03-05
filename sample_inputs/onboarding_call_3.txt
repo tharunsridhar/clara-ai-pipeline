@@ -1,2 +1,35 @@
-Client: Our new hours are 7 AM to 5 PM.
-Client: Fire alarms should also be classified as emergencies.
+Agent: Hi Robert, this is your Clara onboarding session for GuardPoint Fire and Electrical. Let's finalize your agent configuration.
+
+Client: Perfect, I have everything ready.
+
+Agent: Can you confirm your business hours?
+
+Client: Updated hours — now 7 AM to 5 PM Monday through Friday. Mountain time. America/Phoenix.
+
+Agent: Any Saturday or Sunday coverage?
+
+Client: No weekends. Strictly weekdays. After hours and weekends all go to on-call.
+
+Agent: Confirming on-call number?
+
+Client: Primary is 602-555-0321. We added a backup — 602-555-0489, that's Linda, our senior technician.
+
+Agent: Transfer timeout rules?
+
+Client: 60 seconds on primary. If no answer, go to Linda. If Linda doesn't pick up in another 30 seconds, tell the caller our team has been notified and will call back within 20 minutes. Collect name, number, and address before ending the call.
+
+Agent: Emergency definition updates?
+
+Client: Fire alarm and electrical fault are still emergencies. Adding: any caller who mentions a burning smell or visible sparks — those are also emergencies.
+
+Agent: ServiceTitan rules?
+
+Client: Emergency jobs still get created automatically. But I want to add — for any electrical fault emergency, tag the job as PRIORITY in ServiceTitan.
+
+Agent: Any other edge cases?
+
+Client: Yes — if someone calls and says the building has already been evacuated, that's a critical emergency. Dispatch immediately and notify our project manager as well at 602-555-0777.
+
+Agent: Got everything. Your v2 agent spec will be ready shortly.
+
+Client: Great, thank you very much.

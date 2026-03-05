@@ -1,4 +1,31 @@
-Client: Our office hours are Monday to Friday from 8 AM to 5 PM.
-Client: Sprinkler leaks should be treated as emergencies.
-Client: After hours emergency calls should go directly to dispatch.
-Client: Non emergency calls can leave a voicemail.
+Agent: Thank you for calling Clara Answers. How can I help you today?
+
+Client: Hi, yes. I'm calling because we're a fire protection company and we're struggling to handle our inbound calls properly. My name is James Holloway, I'm the operations manager at Apex Fire Protection in Dallas, Texas.
+
+Agent: Great to meet you James. Can you tell me a bit about your business and the kind of calls you typically receive?
+
+Client: Sure. We handle sprinkler installation, fire alarm systems, and annual inspections. We get emergency calls pretty regularly — mostly sprinkler leaks and fire alarms going off at commercial buildings.
+
+Agent: What are your current business hours?
+
+Client: We're open Monday through Friday, 8 AM to 5 PM Central time.
+
+Agent: And how do you want calls handled after hours?
+
+Client: After hours, if it's an emergency like a sprinkler leak, the call should go directly to our dispatch line. Non-emergency calls can leave a voicemail and we'll call back next business day.
+
+Agent: Got it. Do you have a specific number for dispatch?
+
+Client: Yes, dispatch is at 214-555-0199.
+
+Agent: Do you use any field service software we should know about?
+
+Client: We use ServiceTrade. But I want to be clear — never automatically create sprinkler jobs in ServiceTrade. We do that manually.
+
+Agent: Understood. What would you say qualifies as an emergency for your team?
+
+Client: A sprinkler leak is always an emergency. Fire alarm triggered at a building is also an emergency. Anything else we can handle during business hours.
+
+Agent: Perfect. We'll use this to set up your preliminary agent. We'll finalize the details on the onboarding call.
+
+Client: Sounds good, thank you.

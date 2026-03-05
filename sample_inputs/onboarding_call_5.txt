@@ -1,2 +1,35 @@
-Client: Business hours are changing to 7 AM to 6 PM.
-Client: Fire alarm triggers are also emergencies.
+Agent: Hi Michelle, this is your Clara onboarding session for SwiftShield Fire Systems. Let's finalize everything today.
+
+Client: Great, I have my notes here.
+
+Agent: Starting with business hours — any changes?
+
+Client: Yes, we're now open 7 AM to 6 PM Monday through Friday, and adding Saturday 8 AM to 2 PM. Central time. America/Chicago.
+
+Agent: On-call line for emergencies?
+
+Client: 312-555-0184 stays as primary. Adding a backup — 312-555-0356. That's our on-call supervisor, Kevin.
+
+Agent: Transfer timeout?
+
+Client: 40 seconds on primary. If no answer, go to Kevin. If Kevin doesn't answer in 30 seconds, tell the caller our emergency team has been paged and will contact them within 25 minutes. Always collect name, number, and site address before closing.
+
+Agent: Any updates to emergency definitions?
+
+Client: Yes — we're adding gas leak reports to the emergency list alongside sprinkler leaks, fire alarms, and smoke. If someone mentions gas, treat it as an emergency immediately.
+
+Agent: ServiceTrade rules?
+
+Client: Changing our policy — still no automatic job creation. But now, after every emergency call, send an automatic summary email to dispatch@swiftshield.com with the caller's name, number, address, and the emergency type. The agent should confirm this will happen.
+
+Agent: Any other constraints?
+
+Client: If a caller is already on-site with the fire department present, that's a critical escalation — notify both the primary on-call and Kevin simultaneously, not sequentially.
+
+Agent: Noted. Anything else?
+
+Client: One more — our office address is 1420 W Monroe St, Chicago, IL 60607. Make sure that's in the system.
+
+Agent: All captured. Your v2 agent spec will be generated now.
+
+Client: Thank you so much.
