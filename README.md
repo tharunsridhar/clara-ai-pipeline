@@ -1,5 +1,7 @@
 # Clara AI - Voice Agent Configuration Pipeline
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-2.0%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -128,7 +130,7 @@ If this were built in n8n, the nodes would be:
 ### Step 1 - Clone or download the project
 
 ```bash
-git clone https://github.com/yourusername/clara-ai-pipeline.git
+git clone https://github.com/tharunsridhar/clara-ai-pipeline.git
 cd clara-ai-pipeline
 ```
 
