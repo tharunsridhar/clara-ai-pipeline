@@ -15,7 +15,7 @@
 
 This pipeline automates the full configuration lifecycle of Clara AI voice agents for service trade businesses.
 
-It takes raw call transcripts and turns them into production-ready AI agent configurations — automatically, cleanly, and repeatably.
+It takes raw call transcripts and turns them into production-ready AI agent configurations, automatically, cleanly, and repeatably.
 
 ```
 Demo Call Transcript       ->   Preliminary Agent (v1)
