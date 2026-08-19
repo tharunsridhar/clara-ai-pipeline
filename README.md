@@ -26,7 +26,7 @@ Onboarding Call Transcript ->   Updated Agent (v2) + Changelog
 
 ## Architecture
 
-![System Architecture](assets/System_Architecture_Diagram.png)
+![System Architecture](System_Architecture_Diagram.png)
 
 ```
 clara_pipeline/
@@ -63,7 +63,7 @@ clara_pipeline/
 
 ## Data Flow
 
-![Pipeline Flow](assets/Pipeline_Flow_Diagram.png)
+![Pipeline Flow](Pipeline_Flow_Diagram.png)
 
 ```
   [demo_call_N.txt]
